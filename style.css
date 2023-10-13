@@ -1,0 +1,8 @@
+#wrapper {
+    background-color: rgb(255, 255, 172);
+}
+
+body {
+background: rgb(9,9,121);
+background: linear-gradient(90deg, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
