@@ -12,5 +12,9 @@ body {
 }
 
 .logoimg {
-    
+    width: 250px;
+}
+
+footer {
+    margin-top: 200px;
 }
